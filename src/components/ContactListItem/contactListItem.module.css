@@ -1,0 +1,22 @@
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.name{
+    margin: 0;
+    font-weight: 500;
+}
+
+.number{
+    margin-left: 10px;
+}
+
+.button{
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: blue;
+    margin: 8px;
+    padding: 4px 12px;
+    color: aliceblue;
+}

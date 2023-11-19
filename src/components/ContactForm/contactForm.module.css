@@ -1,0 +1,30 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 2px solid gray;
+    width: 400px;
+    padding: 10px;
+}
+
+.label{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+
+.input_form{
+    padding: 8px 16px;
+
+}
+
+.btn{
+    cursor: pointer;
+    border: 2px solid gray;
+    border-radius: 5px;
+    background-color: blue;
+    color: azure;
+    padding: 8px 12px;
+    font-size: 20px;
+}
